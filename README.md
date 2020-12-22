@@ -1,2 +1,3 @@
 git command demo
-abranch
+diff
+new add
